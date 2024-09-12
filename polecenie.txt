@@ -1,0 +1,1 @@
+Zwrócić te kraje wraz z liczbą zamachów w których liczba zamachów jest poniżej mediany liczby zamachów w danym regionie 
